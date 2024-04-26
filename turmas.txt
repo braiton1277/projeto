@@ -1,0 +1,3 @@
+[[[], [{'nome': 'PICO', 'restonome': "'LO'", 'matricula': 693, 'datamatricula': datetime.date(2022, 7, 26), 'nascimento': datetime.date(4200, 5, 2), 'responsavel': 'DAMA YO', 'telefone': 999, 'ano': 1, 'turma': 2, 'mensalidade': [0]}]], [[], [{'nome': 'PICO', 'restonome': "'LO'", 'matricula': 310, 'datamatricula': datetime.date(2022, 7, 26), 'nascimento': datetime.date(1235, 12, 2), 'responsavel': 'DAMA YO', 'telefone': 234, 'ano': 3, 'turma': 1, 'mensalidade': [0]}]], [[], []]]
+2022,07,28,
+2022,07,27,
